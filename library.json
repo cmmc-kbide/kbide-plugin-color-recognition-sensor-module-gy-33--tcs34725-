@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-color-recognition-sensor-module-gy-33--tcs34725-",
+  "title": "color-recognition-sensor-module-gy-33--tcs34725-",
+  "keywords": "color-recognition-sensor-module-gy-33--tcs34725-, esp32, esp8266, arduino",
+  "description": "color-recognition-sensor-module-gy-33--tcs34725- plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-color-recognition-sensor-module-gy-33--tcs34725-/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-color-recognition-sensor-module-gy-33--tcs34725-/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
